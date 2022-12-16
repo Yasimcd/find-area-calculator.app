@@ -1,4 +1,3 @@
-
 // This program find the area of a room
 // Yasim Cruz 
 #include <iostream>            
